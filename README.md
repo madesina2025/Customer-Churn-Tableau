@@ -126,6 +126,18 @@ Several cities consistently report higher customer churn, enabling targeted rete
 
 ---
 
+### Churn by Payment Method 
+![Payment Method](payment_method.png) 
+
+--- 
+
+### Churn by Contract ![Contract](contract.png) 
+
+--- 
+
+### Customer Churn Reasons ![Reasons](churn_reason.png)
+
+
 ## Tableau Public Dashboard
 
 **Live Dashboard:**
